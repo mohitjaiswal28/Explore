@@ -24,7 +24,7 @@
 ## How to run the project ?
 To run the project use following steps:
 
-- Clone the repository ```git@github.com:mohitjaiswal28/explore.git```
+- Clone the repository ```git@github.com:mohitjaiswal28/Explore.git```
 - Navigate to project directory with ```cd your-project-dir-name```
 - Run ```npm install```
 - To start the server, run ```npm run start```
