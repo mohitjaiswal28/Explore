@@ -6,6 +6,9 @@
 
 ## Deploy Link
 
+- You can access the deployed version of this project here - [Deploy Link](https://explore-mohitjaiswal.netlify.app/)
+
+- Search in your browser - [explore-mohitjaiswal.netlify.app](https://explore-mohitjaiswal.netlify.app/)
 
 ## Screenshots
 
