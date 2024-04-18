@@ -1,8 +1,6 @@
 
 import React from 'react'
-import AboutItem, {AboutContactItem} from '../components/AboutItem'
-import Instagram from '../assets/Social Logos/Instagram.png'
-import Gmail from '../assets/Social Logos/Gmail.png'
+import AboutItem from '../components/AboutItem'
 import Vector4 from '../assets/Vector/4.png'
 
 export default function AboutUs() {
@@ -20,38 +18,32 @@ export default function AboutUs() {
                 
                     <AboutItem
                         q = "Who We Are: "
-                        a = "We are Koshish, your partner in educational data analysis and policy transformation."
+                        a = "We are a dedicated team focused on creating an intuitive platform for exploring and connecting with diverse profiles seamlessly."
                     />
 
                     <AboutItem
                         q = "Our Mission: "
-                        a = "Reduce student dropout rates through data-driven insights and policy enhancements, ensuring equitable access to quality education for all."
+                        a = "Our mission is to provide a user-friendly platform that simplifies profile exploration and fosters meaningful connections among individuals."
                     />
 
                     <AboutItem
                         q = "What We Do: "
-                        a = "Provide a powerful platform for educational data analysis, facilitating informed decisions and positive changes in the field of education.."
+                        a = "We develop and maintain an interactive profile viewer application that enables users to easily explore, connect with, and manage diverse profiles."
                     />
 
                     <AboutItem
                         q = "Why Choose Us ? "
-                        a = "Our proven track record in empowering education through actionable insights, making a real difference in the lives of students and institutions."
+                        a = "Choose us for our user-centric approach, seamless profile exploration features, and commitment to delivering an exceptional experience tailored to your needs."
                     />
 
                     <AboutItem
                         q = "Thank You "
-                        a = "Thank you for choosing Koshish to make smarter educational decisions."
+                        a = "Thank you for choosing Explore to."
                     />
 
                     <AboutItem
                         q = "Contact Details:"
-                        a = "Koshish, Pune, India +910123456789."
-                    />
-
-                    <AboutContactItem
-                        q = "Contact Us ?"
-                        sociallogomail = {Gmail}
-                        sociallogoinstagram = {Instagram}
+                        a = "Explore, Pune, India +910123456789."
                     />
                 </div>
             </div>

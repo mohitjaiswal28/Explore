@@ -835,16 +835,6 @@ th {
   text-align: center;
 }
 
-
-
-/* LiveDemo.css */
-/* .custom-table {
-  background-color: #C5EBAA;
-  border: 1px solid #c0f1e6;
-  border-collapse: collapse;
-  width: 100%;
-} */
-
 .custom-table th {
   border: 2px solid var(--primary-text-color);
   padding: 8px;

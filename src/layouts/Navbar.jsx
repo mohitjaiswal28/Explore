@@ -3,8 +3,6 @@ import React from 'react';
 import { Link, useLocation, NavLink } from 'react-router-dom';
 import ExploreLogo from '../assets/ExploreLogo.png';
 import HomeOutlinedIcon from '@mui/icons-material/HomeOutlined';
-import DirectionsCarFilledOutlinedIcon from '@mui/icons-material/DirectionsCarFilledOutlined';
-import DesignServicesOutlinedIcon from '@mui/icons-material/DesignServicesOutlined';
 import Groups2OutlinedIcon from '@mui/icons-material/Groups2Outlined';
 import Button  from '../components/Button';
 
@@ -39,11 +37,6 @@ export default function Navbar() {
               <li className="nav-item">
                 <Link className={`nav-link ${location.pathname === '/aboutus' ? 'active' : ''}`} to="/aboutus">
                   About Us <Groups2OutlinedIcon />
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link className={`nav-link ${location.pathname === '/services' ? 'active' : ''}`} to="/services">
-                  Services <DesignServicesOutlinedIcon />
                 </Link>
               </li>
 
