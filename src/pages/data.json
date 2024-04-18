@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Mohit Jaiswal",
+    "age": 20,
+    "location": "India",
+    "occupation": "Frontend Developer",
+    "interests": "Editing",
+    "address": "Alandi, Pune, Maharashtra",
+    "image": "https://avatars3.githubusercontent.com/u/9384699?s=400&v=4",
+    "instagram": "mohitjaiswal.28",
+    "linkedin": "mohitjaiswal28"
+   },
+   {
+     "id": 2,
+     "name": "John Doe",
+     "age": 30,
+     "location": "New York",
+     "occupation": "Software Engineer",
+     "interests": "Reading, Hiking, Photography",
+     "address": "123 Main St, New York, NY, 10001",
+     "image": "https://avatars3.githubusercontent.com/u/9384699?s=400&v=4",
+     "instagram": "mohitjaiswal.28",
+     "linkedin": "mohitjaiswal28"
+    },
+    {
+      "id": 3,
+      "name": "Jane Smith",
+      "age": 25,
+      "location": "Los Angeles",
+      "occupation": "Graphic Designer",
+      "interests": "Traveling, Painting, Cooking",
+      "address": "456 Elm St, Los Angeles, CA, 90001",
+      "image": "jane_smith.jpg",
+      "instagram": "mohitjaiswal.28",
+      "linkedin": "mohitjaiswal28"
+    },
+    {
+      "id": 4,
+      "name": "Michael Johnson",
+      "age": 35,
+      "location": "Chicago",
+      "occupation": "Marketing Manager",
+      "interests": "Sports, Movies, Music",
+      "address": "789 Oak St, Chicago, IL, 60601",
+      "image": "michael_johnson.jpg",
+      "instagram": "mohitjaiswal.28",
+      "linkedin": "mohitjaiswal28"
+    }
+  ]
+  
